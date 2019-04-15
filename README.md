@@ -1,8 +1,8 @@
 # Recommender-Systems-with-ML-and-AI
 Recommender System 
 
-
-Testing RecomSys offline:
+==============================================================================|
+# Testing RecomSys offline:
 
 Step 1 : Take full data set  split it into Training Set and Testing Set
 
@@ -14,3 +14,9 @@ OR
 
 We can also use k-fold cross validation technique .
 In this we split Training set into folds take average .
+===============================================================================|
+
+Mean absolute Error (MAE)
+
+Mean absolute error (MAE) is a measure of difference between two continuous variables.
+
