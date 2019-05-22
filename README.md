@@ -17,6 +17,4 @@ In this we split Training set into folds take average .
 ===============================================================================|
 
 Mean absolute Error (MAE)
-
-Mean absolute error (MAE) is a measure of difference between two continuous variables.
-
+RMS Error
